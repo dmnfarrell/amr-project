@@ -1,0 +1,34 @@
+id,species,observation,storage,location,stage,pen,old_ST,color
+RF1A,e coli,Farrowing pig farm B,Box13-C3,farm B,farrowing,218,newST1,red
+RF2A,e coli,Farrowing pig farm B,Box13- C4,farm B,farrowing,223,newST2,red
+RF2B,e coli,Farrowing pig farm B,Box13- C5,farm B,farrowing,223,ST23,red
+RF2C,e coli,Farrowing pig farm B,Box13- C6,farm B,farrowing,223,ST58,red
+RF5A,e coli,Farrowing pig farm B,Box13- C7,farm B,farrowing,358,ST910,red
+RF6A1,e coli,Farrowing pig farm B,Box13- C8,farm B,farrowing,373,ST101,red
+RF6A2,e coli,Farrowing pig farm B,Box13- C9,farm B,farrowing,373,ST17,red
+RF6B,e coli,Farrowing pig farm B,Box13- D1,farm B,farrowing,373,ST48,red
+RF6C,e coli,Farrowing pig farm B,Box13- D2,farm B,farrowing,373,newST3,red
+RF7A,e coli,1st stage weaner pig farm B,Box13- D3,farm B,1st stage weaner,1,ST23,green
+RF8A,e coli,1st stage weaner pig farm B,Box13- D4,farm B,1st stage weaner,2,ST424,green
+RF8B,e coli,1st stage weaner pig farm B,Box13- D5,farm B,1st stage weaner,2,ST424,green
+RF9,e coli,1st stage weaner pig farm B,Box13- D6,farm B,1st stage weaner,3,ST88,green
+RF11,e coli,1st stage weaner pig farm B,Box13- D7,farm B,1st stage weaner,5,ST910,green
+RF12A,e coli,2nd stage weaner pig farm B,Box13- D8,farm B,2nd stage weaner,1W,ST17,yellow
+RF14A,e coli,Hospital pen feaces pig farm B,Box13- D9,farm B,hospital pen,HP,newST4,orange
+RF14B,lwoffii,Hospital pen faeces pig farm B,Box13- E1,farm B,hospital pen,HP,,orange
+RF15A,lwoffii,Hospital pen floor pig farm B,Box13- E2,farm B,hospital pen,HP,,orange
+RF15B,lwoffii,Hospital pen floor pig farm B,Box13- E3,farm B,hospital pen,HP,,orange
+RF16A,e coli,Hospital pen feeder pig farm B,Box13- E4,farm B,hospital pen,HP,ST17,orange
+9805,e coli,Dog ear,Box 14- E3,dog,dog,CL,newST5,
+9808,e coli,Dog urine,Box 14- E4,dog,dog,CL,ST73,
+909D3A,lwoffii,Tx gp piglet pig farm A,Box 11- D3,farm A,farm A,CL,,
+ecoli_k12,e coli,,,reference,reference,CL,,blue
+ecoli_IAI39,e coli,,,reference,reference,CL,,blue
+ecoli_O104_str.2011C-3493,e coli,,,reference,reference,CL,,blue
+ecoli_UMN026,e coli,,,reference,reference,CL,,blue
+ecoli_O157_str.Sakai,e coli,,,reference,reference,CL,,blue
+Acin_lwof_NCTC5866,lwoffii,,,reference,reference,CL,,blue
+Acin_lwof_ZS207,lwoffii,,,reference,reference,CL,,blue
+Acin_sp_ACNIH1,,,,reference,reference,CL,,blue
+Acin_sp_LoGeW2-3,,,,reference,reference,CL,,blue
+Acin_schi_str_ACE,,,,reference,reference,CL,,blue
